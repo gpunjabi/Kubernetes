@@ -1,7 +1,7 @@
 # Kubernetes
 Kubernetes Basics
 
-Kubernetes 101 - Part 1: Set up
+Kubernetes
 Before we get started, let’s get you set up.
 
 Prerequisites
